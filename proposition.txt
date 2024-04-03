@@ -1,0 +1,14 @@
+Die Welt ist alles, was der Fall ist.
+世界是所有发生的事物。
+Was der Fall ist, die Tatsache, ist das Bestehen von Sachverhalten.
+发生的事物（事实）是原子性事态的存在。
+Das logische Bild der Tatsachen ist der Gedanke.
+事实的逻辑图像是思想。
+Der Gedanke ist der sinnvolle Satz.
+思想是有意义的命题。
+Der Satz ist eine Wahrheitsfunktion der Elementarsätze. (Der Elementarsatz ist eine Wahrheitsfunktion seiner selbst.)
+命题是基本命题的真值函数。
+Die allgemeine Wahrheitsfunktion ist: {\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}. Die ist die allgemeine Form des Satzes.
+命题的一般形式是真值函数的一般形式，它是：{\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}。这也是命题的一般形式。
+Wovon man nicht sprechen kann, darüber muss man schweigen.
+对于不可说的东西我们必须保持沉默。
